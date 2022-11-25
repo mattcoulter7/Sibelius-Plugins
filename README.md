@@ -4,7 +4,7 @@ This plugin is used in order to create the chord patterns relative to key and mo
 1. Open Block Chords.sib
 ![block chords](https://user-images.githubusercontent.com/53892067/203917115-8dc33494-ce23-42c8-9558-61d5cc0e97e8.png)
 
-2. Export the file as a Chord Dictionary
+2. Export the file as a Chord Dictionary\
 ![2022-11-25 17_22_33-Block Chords - Sibelius](https://user-images.githubusercontent.com/53892067/203917122-7c2a20ff-953b-4ea4-8dfe-3731107d3d54.png)
 
 3. Locate the chord dictionary directory to confirm that it has been created
